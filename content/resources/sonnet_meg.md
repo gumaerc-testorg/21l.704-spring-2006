@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5bea5734-a935-f1d7-48b3-bb02ef605623
 resourcetype: Document
 title: sonnet_meg.pdf
 uid: d8f56536-10a9-dd91-2a51-188372a60b5e

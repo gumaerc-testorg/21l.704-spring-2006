@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5bea5734-a935-f1d7-48b3-bb02ef605623
 resourcetype: Document
 title: jennykim_sonnets.pdf
 uid: 6d222e92-329b-9a7b-8615-16fba98bb7a9
