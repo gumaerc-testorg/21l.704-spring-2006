@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/67c1b6a7a6f44d52a818ccb899a95b06_poetry.jpg
+file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/67c1b6a7a6f44d52a818ccb899a95b06_poetry.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
