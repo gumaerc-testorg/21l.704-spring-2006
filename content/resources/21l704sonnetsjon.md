@@ -5,6 +5,7 @@ file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysical
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21L704sonnetsjon.pdf
 uid: 4dc4b420-60cb-f589-3c7b-faa3dcf6544c
 ---
 This document presents the Jonathan Reinharth's Sonnets.
-

@@ -5,6 +5,7 @@ file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysical
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jennykim_sonnets.pdf
 uid: 6d222e92-329b-9a7b-8615-16fba98bb7a9
 ---
 This document provides sonnet "TODAY(Marathon Monday, 2006)"
-

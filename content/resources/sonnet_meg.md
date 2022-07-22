@@ -5,6 +5,7 @@ file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysical
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sonnet_meg.pdf
 uid: d8f56536-10a9-dd91-2a51-188372a60b5e
 ---
 Thid document presents an untitled sonnet by Meg Rosenburg.
-

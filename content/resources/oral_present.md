@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysical
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: oral_present.pdf
 uid: c66c7db0-558a-234a-2f2e-2e3a1265ce06
 ---
 This document is the oral presentation guidelines with some contextualization of the assignment.
-

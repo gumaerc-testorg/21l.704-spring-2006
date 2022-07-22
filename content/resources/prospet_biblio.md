@@ -7,6 +7,7 @@ file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysical
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: prospet_biblio.pdf
 uid: 5993958e-b05f-6076-5967-4c676e4eacea
 ---
 In this document, the student plans to focus on Herbert's poems that strike him as most shocking in their techniques - "The Altar," "Easter Wings," "Sinnes round," "Deniall," "The Flower," "Paradise," and "Colossians 3:3."
-
