@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This document provides sonnet "TODAY(Marathon Monday, 2006)"
-file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/6d222e92329b9a7b861516fba98bb7a9_jennykim_sonnets.pdf
+file: /courses/21l-704-studies-in-poetry-from-the-sonneteers-to-the-metaphysicals-spring-2006/6d222e92329b9a7b861516fba98bb7a9_jennykim_sonnets.pdf
 file_size: 9182
 file_type: application/pdf
 learning_resource_types:
